@@ -1,6 +1,6 @@
 # DNS-Server-mit-Firewall-Marke-Eigenbau
 
-# DNS-Server + Firewall im Heimnetz (2 PCs) – Lernprojekt (FISI)
+# DNS-Server + Firewall im Heimnetz (2 PCs) – Lernprojekt 
 
 ## Kurz erklärt
 In diesem Projekt richte ich auf einem **zweiten PC** (Linux) einen **DNS-Server** ein und sichere ihn mit einer **Firewall** ab.  
