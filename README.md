@@ -6,7 +6,7 @@
 In diesem Projekt richte ich auf einem **zweiten PC** (Linux) einen **DNS-Server** ein und sichere ihn mit einer **Firewall** ab.  
 Ziel: Grundlagen verstehen, sauber dokumentieren und testen – ohne Profi-Fachchinesisch.
 
-> Hinweis: Das ist ein **Lernprojekt** für Fachinformatiker Systemintegration (FISI). Es muss nicht „Enterprise-level“ sein – wichtig ist, dass du es **nachvollziehbar erklären** kannst.
+
 
 ---
 
